@@ -1,2 +1,9 @@
 https://medium.com/atomic-loops/django-channels-is-all-you-need-94628dd6815c
 https://dev.to/sirneij/backend-one-on-one-duologue-chatting-application-with-django-channels-and-sveltekit-1bim
+https://github.com/Omkar0231/Chat-app-tutorial/blob/master/chat/consumers.py
+
+
+https://www.youtube.com/watch?v=205tbCUl4Uk&ab_channel=TheCodrammers
+https://www.youtube.com/watch?v=YnrgBeIRtvo&ab_channel=Djangoroad
+https://www.youtube.com/watch?v=RsrJzKPigc4&ab_channel=THEPROTONGUY
+
