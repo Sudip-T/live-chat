@@ -1,1 +1,2 @@
 https://medium.com/atomic-loops/django-channels-is-all-you-need-94628dd6815c
+https://dev.to/sirneij/backend-one-on-one-duologue-chatting-application-with-django-channels-and-sveltekit-1bim
