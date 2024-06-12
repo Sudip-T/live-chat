@@ -40,7 +40,10 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'chat',
+    'vendors'
 ]
+
+AUTH_USER_MODEL = 'vendors.CustomUser'
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
