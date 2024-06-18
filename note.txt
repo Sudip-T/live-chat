@@ -158,3 +158,6 @@ class Logout(APIView):
     def post(self, request):
         request.user.auth_token.delete()
         return Response(status=status.HTTP_200_OK)
+
+
+https://documenter.getpostman.com/view/28231090/2sA3XSC1my
